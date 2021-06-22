@@ -6,9 +6,9 @@ namespace bitwise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine( isOdd(4));
+            Console.WriteLine( isEven(4));
         }
-        public static bool isOdd(int a)
+        public static bool isEven(int a)
             {
 
             int comparador = 1;
